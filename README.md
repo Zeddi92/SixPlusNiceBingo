@@ -1,6 +1,6 @@
-# Zelda Bingo Generator
+# Stream Bingo Generator
 
-Der Zelda Bingo Generator ist ein Python-Skript, das eine zufällige Bingo-Karte auf Basis einer Liste von Aufgaben aus der Datei "botw_input.txt" erstellt. Dieses Skript verwendet die **Python Imaging Library** (PIL), um die Bingo-Karte als Bild zu erstellen und anzuzeigen.
+Der Stream Bingo Generator ist ein Python-Skript, das eine zufällige Bingo-Karte auf Basis einer Liste von Aufgaben aus den Dateien in Games erstellt. Dieses Skript verwendet die **Python Imaging Library** (PIL), um die Bingo-Karte als Bild zu erstellen und anzuzeigen.
 
 In diesem Projekt werden Wasserzeichen auf den generierten Bingo-Karten verwendet, um sicherzustellen, dass alle Benutzer:innen bei Verwendung des gleichen Seeds stets identische Karten erhalten. Dies ist besonders wichtig für kompetitive Veranstaltungen, bei denen die Karten zur Überprüfung der Gültigkeit nachvollziehbar sein müssen. Durch die Implementierung der Wasserzeichen können die Benutzer:innen die Karten einfach selbst generieren und so die Übereinstimmung mit den Karten anderer Teilnehmer:innen überprüfen. Dies stellt sicher, dass die Karten für Turniere und Wettbewerbe geeignet und manipulationssicher sind. Das Wasserzeichen selbst enthält den Seed-Wert und ermöglicht es den Benutzer:innen, die Karte mithilfe dieses Seeds reproduzieren und ihre Gültigkeit überprüfen zu können.
 
