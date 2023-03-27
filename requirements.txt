@@ -1,0 +1,6 @@
+jupyter-book
+matplotlib
+pillow
+numpy
+requests
+io
