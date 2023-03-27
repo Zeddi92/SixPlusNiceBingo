@@ -2,6 +2,8 @@
 
 Der Zelda Bingo Generator ist ein Python-Skript, das eine zufällige Bingo-Karte auf Basis einer Liste von Aufgaben aus der Datei "botw_input.txt" erstellt. Dieses Skript verwendet die Python Imaging Library (PIL), um die Bingo-Karte als Bild zu erstellen und anzuzeigen.
 
+![Generiertes Binge-Feld mit dem Python-Script](example.png)
+
 ## Voraussetzungen
 Um dieses Skript auszuführen, benötigen Sie die folgenden Abhängigkeiten:
 
