@@ -8,7 +8,8 @@ In diesem Projekt werden Wasserzeichen auf den generierten Bingo-Karten verwende
 
 ## MyBinder
 
-Sie können das Script mit myBinder direkt testen: [![Binder](https://mybinder.org/badge_logo.svg)][![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Zeddi92/SixPlusNiceBingo.git/HEAD?labpath=Bingo.ipynb)
+Sie können das Script mit myBinder direkt testen:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Zeddi92/SixPlusNiceBingo.git/HEAD?labpath=Bingo.ipynb)
 
 ## Voraussetzungen
 Um dieses Skript auszuführen, benötigen Sie die folgenden Abhängigkeiten:
