@@ -22,6 +22,28 @@ Installieren Sie die Abhängigkeiten mit dem folgenden Befehl:
 ```
 pip install pillow requests
 ```
+## Unterstützung für mehrere Spiele
+Dieses Projekt unterstützt jetzt mehrere Spiele als übergeordnete Kategorien. Um dies zu erreichen, werden die Aufgaben für jedes Spiel in einer separaten Textdatei im Ordner "Games" gespeichert. Jede Textdatei ist nach dem Namen des Spiels benannt (z. B. `zelda_botw.txt` für **"Zelda: Breath of the Wild"**).
+
+### Struktur der Spiele-Dateien
+
+Jede Spiel-Datei enthält die Aufgaben und Regionen in folgendem Format:
+```
+---REGION: Region A---
+Aufgabe 1 in Region A
+Aufgabe 2 in Region A
+---REGION: Region B---
+Aufgabe 1 in Region B
+Aufgabe 2 in Region B
+```
+Trennen Sie die Aufgaben für verschiedene Regionen mit einer speziellen Zeile, zum Beispiel `---REGION: RegionName---`. Ersetzen Sie **"RegionName"** durch den tatsächlichen Namen der Region.
+
+### Auswahl eines Spiels im Skript
+Zu Beginn des Skripts können Sie das gewünschte Spiel auswählen, indem Sie die `game_name`-Variable entsprechend ändern:
+```
+game_name = "zelda_botw"  # Ersetzen Sie dies durch den gewünschten Spielnamen
+```
+Das Skript liest dann die Aufgaben und Regionen aus der entsprechenden Textdatei im Ordner "**Games**" und generiert die Bingo-Karte basierend auf der ausgewählten Region des ausgewählten Spiels.
 
 ## Verwendung
 
