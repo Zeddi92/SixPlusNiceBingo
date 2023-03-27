@@ -18,6 +18,7 @@ pip install pillow requests
 1. Legen Sie die Datei "botw_input.txt" im selben Verzeichnis wie das Skript ab. Diese Datei sollte eine Liste von Aufgaben enthalten, die durch Zeilenumbrüche getrennt sind.
 2. Öffnen Sie das Skript und ändern Sie die Variablen image_url und avatar_url entsprechend Ihren Anforderungen.
 3. Führen Sie das Skript aus, indem Sie dieses Git in Jupyter Notebook öffnen. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Zeddi92/SixPlusNiceBingo.git/HEAD?labpath=Bingo.ipynb)
+4. _Optional_ Fügen Sie den Code `bingo_card.save("output_file.png")` am Ende des Scripts hinzu, damit das Bild temporär gespeichert wird. Sie können das Bild im Anschluss links über den File-Browser aufrufen und speichern.
 
 ## Anpassungen
 
