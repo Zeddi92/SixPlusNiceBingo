@@ -11,9 +11,10 @@ Sie können das Script mit myBinder direkt testen: [![Binder](https://mybinder.o
 ## Voraussetzungen
 Um dieses Skript auszuführen, benötigen Sie die folgenden Abhängigkeiten:
 
-Python 3.x
-PIL (Pillow)
-requests
+* Python 3.x
+* PIL (Pillow)
+* requests
+
 Installieren Sie die Abhängigkeiten mit dem folgenden Befehl:
 ```
 pip install pillow requests
