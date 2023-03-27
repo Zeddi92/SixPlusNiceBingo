@@ -1,6 +1,6 @@
 Einen Korok finden
-Blauen Bokoblin mit Schwert töten
-Blauen Bokoblin mit Bogen töten
+Blauen Bokoblin mit Schwert besiegt
+Blauen Bokoblin mit Bogen besiegt
 Das Bombenmodul bekommen
 Das Magnetmodul bekommen
 Das Zeitmodul bekommen
@@ -9,12 +9,12 @@ Alle vier Schreine besucht
 Fünf Edelsteine im Inventar
 Auf einer Bergspitze stehen
 Zehn Pilze im Inventar
-Einen Skelett-Bokoblin töten
+Einen Skelett-Bokoblin besiegen
 Einen Bogen erhalten
-Einen Iwarok töten
+Einen Iwarok besiegen
 Einen Winterwams besitzen
-Schwarzen Bokoblin töten
-Blauen Schleim töten
+Schwarzen Bokoblin besiegt
+Blauen Schleim besiegen
 Elementarpfeile gesammelt
 Kochen einer Mahlzeit
 Mehr als 100 Rubine besitzen
@@ -23,3 +23,12 @@ Einen Ausdauercontainer bekommen
 Erfolgreiche Wildschwein Jagd
 Alten Mann an vier Orten treffen
 Vom Leunen getötet werden
+Fünf verschiedene Gerichte im Inventar
+Buff genutzt (zb durch Mahlzeit)
+Zitadelle der Zeit erklommen
+Guardian besiegt
+Gegner mit Flurry-Rush besiegt
+Fünf Koroks entdeckt
+Gegner mithilfe von Sheika-Modul besiegt
+Switch-Shirt gefunden
+Gegner mit Waffe abgeworfen
